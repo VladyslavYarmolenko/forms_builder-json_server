@@ -39,6 +39,11 @@
       "email": "sad@mail.com",
       "password": "$2a$10$YdyUTwIWWovtjVnFuR5Dcu5ibmz8dxMRVf0lN6Qpl1PZDB2rR7Oke",
       "id": 8
+    },
+    {
+      "email": "bullshit@faken.com",
+      "password": "$2a$10$4ttRqKVSklLaQzdTfbF5Je1ddKpFLslpDLLuHAhmkMItd3ikltu9m",
+      "id": 9
     }
   ]
 }
